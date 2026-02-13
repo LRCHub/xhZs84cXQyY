@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "DOWN TOWN",
+  "base_artist": "山下達郎",
+  "createdAt": "2026-02-13T23:21:27.215964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Going Down Town Tonight",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/01_Going_Down_Town_Tonight_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Down Town",
+      "artist": "Days of the New",
+      "has_synced": true,
+      "path": "select/02_The_Down_Town_Days_of_the_New.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Going Down Town Tonight",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/03_Going_Down_Town_Tonight_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Down Town",
+      "artist": "Manafest",
+      "has_synced": false,
+      "path": "select/04_Down_Town_Manafest.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Down Town",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/05_Down_Town_星野源.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DOWN TOWN",
+      "artist": "EPO",
+      "has_synced": true,
+      "path": "select/06_DOWN_TOWN_EPO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Down Town",
+      "artist": "De Staat",
+      "has_synced": true,
+      "path": "select/07_Down_Town_De_Staat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bring Me Down Town",
+      "artist": "Cassadee Pope",
+      "has_synced": true,
+      "path": "select/08_Bring_Me_Down_Town_Cassadee_Pope.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Noche en Down Town",
+      "artist": "Fito Páez",
+      "has_synced": true,
+      "path": "select/09_Noche_en_Down_Town_Fito_Páez.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Down Town",
+      "artist": "Days Of The New",
+      "has_synced": true,
+      "path": "select/10_The_Down_Town_Days_Of_The_New.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Down Town (Pátá)",
+      "artist": "Zuzana Norisová",
+      "has_synced": false,
+      "path": "select/11_Down_Town_(Pátá)_Zuzana_Norisová.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Down Town",
+      "artist": "Parmalee",
+      "has_synced": false,
+      "path": "select/12_Down_Town_Parmalee.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Down Town (Hurricane Florence Relief Song)",
+      "artist": "Parmalee",
+      "has_synced": false,
+      "path": "select/13_Down_Town_(Hurricane_Florence_Relief_Song)_Parmalee.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Down Town",
+      "artist": "De Staat",
+      "has_synced": true,
+      "path": "select/14_Down_Town_De_Staat.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOWN TOWN",
+      "artist": "山下 達郎",
+      "has_synced": false,
+      "path": "select/pl_01_DOWN_TOWN_山下_達郎.txt"
+    }
+  ]
+}
